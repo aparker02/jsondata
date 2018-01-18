@@ -1,4 +1,4 @@
-    [{
+       [{
     "ProductID": 1,
     "ProductName": "Chai",
     "CategoryID": 1,
@@ -32,25 +32,4 @@
     "CategoryID": 2,
     "UnitPrice": 21.3500,
     "UnitsInStock": 0
-    },
-    {
-    "ProductID": 6,
-    "ProductName": "Grandmas Boysenberry Spread",
-    "CategoryID": 2,
-    "UnitPrice": 25.0000,
-    "UnitsInStock": 120
-    },
-    {
-    "ProductID": 7,
-    "ProductName": "Uncle Bobs Organic Dried Pears",
-    "CategoryID": 7,
-    "UnitPrice": 30.0000,
-    "UnitsInStock": 15
-    },
-    {
-    "ProductID": 8,
-    "ProductName": "Northwoods Cranberry Sauce",
-    "CategoryID": 2,
-    "UnitPrice": 40.0000,
-    "UnitsInStock": 6
     }]
